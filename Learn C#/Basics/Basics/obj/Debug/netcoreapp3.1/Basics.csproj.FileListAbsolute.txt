@@ -1,0 +1,11 @@
+E:\Microsoft Visual Studio Projects\C#\Learn C#\Basics\Basics\bin\Debug\netcoreapp3.1\Basics.exe
+E:\Microsoft Visual Studio Projects\C#\Learn C#\Basics\Basics\bin\Debug\netcoreapp3.1\Basics.deps.json
+E:\Microsoft Visual Studio Projects\C#\Learn C#\Basics\Basics\bin\Debug\netcoreapp3.1\Basics.runtimeconfig.json
+E:\Microsoft Visual Studio Projects\C#\Learn C#\Basics\Basics\bin\Debug\netcoreapp3.1\Basics.runtimeconfig.dev.json
+E:\Microsoft Visual Studio Projects\C#\Learn C#\Basics\Basics\bin\Debug\netcoreapp3.1\Basics.dll
+E:\Microsoft Visual Studio Projects\C#\Learn C#\Basics\Basics\bin\Debug\netcoreapp3.1\Basics.pdb
+E:\Microsoft Visual Studio Projects\C#\Learn C#\Basics\Basics\obj\Debug\netcoreapp3.1\Basics.csprojAssemblyReference.cache
+E:\Microsoft Visual Studio Projects\C#\Learn C#\Basics\Basics\obj\Debug\netcoreapp3.1\Basics.AssemblyInfoInputs.cache
+E:\Microsoft Visual Studio Projects\C#\Learn C#\Basics\Basics\obj\Debug\netcoreapp3.1\Basics.AssemblyInfo.cs
+E:\Microsoft Visual Studio Projects\C#\Learn C#\Basics\Basics\obj\Debug\netcoreapp3.1\Basics.dll
+E:\Microsoft Visual Studio Projects\C#\Learn C#\Basics\Basics\obj\Debug\netcoreapp3.1\Basics.pdb
